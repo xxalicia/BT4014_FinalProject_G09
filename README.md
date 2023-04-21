@@ -1,1 +1,3 @@
 # BT4014_FinalProject_G09
+
+Our team aims to improve MovieLens' personalised movie recommendations by proposing bandit algorithms. We will explore two algorithms. Our first algorithm is an epsilon decay bandit algorithm combined with a content-based recommendation system. Our second algorithm is a contextual bandit algorithm which considers user features. These algorithms can increase user satisfaction by recommending high-quality movies based on their past movie preferences and personal characteristics. Through comparing these two approaches, we can determine which is more effective for MovieLens' recommendation system. 
